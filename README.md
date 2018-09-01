@@ -1,2 +1,2 @@
 # Condition-monitoring-of-hydraulic-systems-using-xgboost-modeling
-We will do a condition modelling of a test hydraulic rig, using various sensor values and using xgboost for classification
+We will do a condition modelling of a test hydraulic rig, using various sensor values and using xgboost for classification. We got a very high F1-score (>0.94 in all cases and > 0.99 in two cases). Also we monitered the feature importance and the feature importance correlates well with the actual physical condition of the rig, such as colling condition, pump leak, hydraulic accumulator and valve condition. The dataset for this analyssi can be downloaded at https://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems
